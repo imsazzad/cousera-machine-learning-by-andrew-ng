@@ -7,7 +7,7 @@ This is one of the solutions to all the programming assignments of Machine-Learn
 to make sure you have tried, I will try to add some random error in my code. Sorry, this is not to irritate you but to enrich the community of machine learning engineers. :)
 chill..
 
-##Contents
+## Contents
 Solution to programming assignment
 
 ## References
